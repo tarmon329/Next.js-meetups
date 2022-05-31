@@ -1,8 +1,8 @@
 # Next.js Meetups
 The "Meetups"  app allows you to add a meetup place with an image, address and description. Once added, the meetup is added to the entire list of meetups , where  everyone can see it.
 
-It was  created with Next.js as the frontend and MongoDB as the backend.
-
+It was  created with Next.js as the frontend and MongoDB as the DB, hosted on Netlify.
+* Change MONGO_CREDENTIALS to yours in order to run it too.
 
 # [`The Client`](pages/index.js):
 ```javascript
